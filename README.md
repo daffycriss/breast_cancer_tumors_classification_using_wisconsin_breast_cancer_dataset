@@ -64,7 +64,7 @@ This repository contains a machine learning project focused on classifying **bre
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/Breast-Cancer-Classification.git
+   git clone https://github.com/daffycriss/breast_cancer_tumors_classification_using_wisconsin_breast_cancer_dataset.git
 
 2. Open the Jupyter Notebook:
    jupyter notebook Breast_Cancer_Classification.ipynb
